@@ -1,0 +1,36 @@
+body {
+    background: none repeat scroll 0 0 #32373D;
+    font-size: 100%;
+}
+
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50em;
+}
+
+#header {
+	width: 400px;
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 30px;
+	margin: 20px;
+	margin-left: 70px; -webkit-border-radius : 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background-color: #B0BABF;
+	-webkit-border-radius: 20px;
+	-webkit-border-radius: 20px;
+}
+
+#info {
+	width: 500px;
+	height: 150px;
+	padding: 15px;
+	margin: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background-color: #B0BABF;
+	-webkit-border-radius: 20px;
+}

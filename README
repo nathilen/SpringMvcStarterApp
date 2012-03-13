@@ -1,0 +1,10 @@
+Description
+===========
+This is a simple Spring MVC 3 application with a home page that shows some server data.
+This application is part of one of my blog entries about Spring MVC.
+For more details please visit my blog at : <a href="http://www.codereplay.com">http://www.codereplay.com</a>
+
+Building & running:
+===================
+Run the command : mvn clean package jetty:run
+
